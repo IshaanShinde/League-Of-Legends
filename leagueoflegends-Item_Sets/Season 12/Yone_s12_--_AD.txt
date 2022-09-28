@@ -1,0 +1,14 @@
+{
+"title":"Nitoryu",
+"associatedMaps":[],
+"associatedChampions":[777],
+
+"blocks":
+[
+    {"items":[{"id":"3006","count":1},{"id":"6673","count":1},{"id":"3031","count":1},
+    {"id":"3026","count":1}],"type":"Ni Giri"},
+    
+    {"items":[{"id":"3072","count":1},{"id":"6333","count":1},{"id":"3091","count":1},
+    {"id":"3033","count":1},{"id":"3036","count":1}],"type":"Rashomon"}
+]
+}

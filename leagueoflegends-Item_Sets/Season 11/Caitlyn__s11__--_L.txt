@@ -1,0 +1,23 @@
+{
+"title":"Bhayanak Maut",
+"associatedMaps":[],
+"associatedChampions":[51],
+
+"blocks":
+[
+	 {"items":[{"id":"1055","count":1},{"id":"2003","count":1},
+	 {"id":"3340","count":1}],"type":"--light. lotus. lilly."},
+	 
+	 {"items":[{"id":"6691","count":1},{"id":"6676","count":1},
+	 {"id":"3094","count":1},{"id":"3031","count":1}],
+	 "type":"--ranti nasha"},
+	 
+	 {"items":[{"id":"6691","count":1},{"id":"1037","count":1},
+	 {"id":"3036","count":1},{"id":"3094","count":1},
+	 {"id":"3031","count":1}],"type":"--ungentle"},
+	 
+	 {"items":[{"id":"3072","count":1},{"id":"6695","count":1},
+	 {"id":"3139","count":1},{"id":"3033","count":1},
+	 {"id":"3006","count":1}],"type":"--blasted beyond belief"}
+]
+}

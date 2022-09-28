@@ -1,0 +1,25 @@
+{
+"title":"Nocturnal ",
+"associatedMaps":[],
+"associatedChampions":[29],
+
+"blocks":
+[
+	 {"items":[{"id":"1055","count":1},{"id":"2003","count":1},
+	 {"id":"3340","count":1}],"type":"--virally yours"},
+	 
+	 {"items":[{"id":"6672","count":1},{"id":"3046","count":1},
+	 {"id":"3153","count":1},{"id":"3031","count":1},
+	 {"id":"3006","count":1}],"type":"--deathmask divine"},
+	 
+	 {"items":[{"id":"6673","count":1},{"id":"3085","count":1},
+	 {"id":"3153","count":1},{"id":"3072","count":1},
+	 {"id":"3031","count":1}],
+	 "type":"--i worship only what you bleed"},
+	 
+	 {"items":[{"id":"6676","count":1},{"id":"3036","count":1},
+	 {"id":"6675","count":1},{"id":"3139","count":1},
+	 {"id":"3033","count":1}],
+	 "type":"--to a breathless oblivion"}
+]
+}

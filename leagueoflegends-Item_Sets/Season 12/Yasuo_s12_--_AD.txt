@@ -1,0 +1,16 @@
+{
+"title":"Gone With The Wind",
+"associatedMaps":[],
+"associatedChampions":[157],
+
+"blocks":
+[
+    {"items":[{"id":"3006","count":1},{"id":"3086","count":1}],"type":"Aseryo"},
+    
+    {"items":[{"id":"6673","count":1},{"id":"3031","count":1},{"id":"6333","count":1},
+    {"id":"3026","count":1}],"type":"Choryon"},
+    
+    {"items":[{"id":"3046","count":1},{"id":"3033","count":1},{"id":"3091","count":1},
+    {"id":"3072","count":1}],"type":"Sorye Igei Ton"}
+]
+}

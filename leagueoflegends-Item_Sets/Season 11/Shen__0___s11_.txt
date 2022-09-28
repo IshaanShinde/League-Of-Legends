@@ -1,0 +1,24 @@
+{
+"title":"Renaissance",
+"associatedMaps":[],
+"associatedChampions":[98],
+
+"blocks":
+[
+	 {"items":[{"id":"2003","count":1},{"id":"1054","count":1},
+	 {"id":"3340","count":1},{"id":"3364","count":1},
+	 {"id":"2055","count":1}],"type":"--crush"},
+	 
+	 {"items":[{"id":"3057","count":1},{"id":"6660","count":1},
+	 {"id":"3076","count":1},{"id":"3047","count":1},
+	 {"id":"3111","count":1}],"type":"--florence"},
+	 
+	 {"items":[{"id":"3068","count":1},{"id":"3075","count":1},
+	 {"id":"3748","count":1},{"id":"3053","count":1},
+	 {"id":"3001","count":1}],"type":"--light"},
+	 
+	 {"items":[{"id":"6632","count":1},{"id":"3143","count":1},
+	 {"id":"3091","count":1},{"id":"3742","count":1},
+	 {"id":"3193","count":1}],"type":"--bittersweet"}
+]
+}

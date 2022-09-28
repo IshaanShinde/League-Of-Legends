@@ -1,0 +1,23 @@
+{
+"title":"Kinkou Order Domain Expansion",
+"associatedMaps":[],
+"associatedChampions":[98],
+
+"blocks":
+[
+	 {"items":[{"id":"1054","count":1},{"id":"2003","count":1},{"id":"3340","count":1},
+	 {"id":"1001","count":1},{"id":"1029","count":1},{"id":"1028","count":1},
+	 {"id":"1033","count":1},{"id":"2055","count":1}],
+	 "type":"FOBC 5:00 - 5:30 | FHF 6:00 - 6:30 | FSB 3:00 - 3:30"},
+	 
+	 {"items":[{"id":"3067","count":1},{"id":"3076","count":1},{"id":"3114","count":1},
+	 {"id":"1011","count":1},{"id":"1057","count":1},{"id":"6660","count":1},
+	 {"id":"3047","count":1},{"id":"3111","count":1}],
+	 "type":"2-LEAVED PLANT -> 2ND LEAF FROM THE BOTTOM"},
+	 
+	 {"items":[{"id":"6664","count":1},{"id":"3107","count":1},{"id":"3001","count":1},
+	 {"id":"3222","count":1},{"id":"3075","count":1},{"id":"3109","count":1},
+	 {"id":"3143","count":1},{"id":"3193","count":1}],
+	 "type":"CONSISTENCY ABOVE ALL ELSE"}
+]
+}

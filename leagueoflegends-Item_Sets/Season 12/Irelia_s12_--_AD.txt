@@ -1,0 +1,16 @@
+{
+"title":"cur_master(botrk)!=True",
+"associatedMaps":[],
+"associatedChampions":[39],
+
+"blocks":
+[
+    {"items":[{"id":"1053","count":1}],"type":"full_build = 1"},
+    
+    {"items":[{"id":"3153","count":1},{"id":"6673","count":1},{"id":"6630","count":1}],
+    "type":"Blisspurge"},
+    
+    {"items":[{"id":"6333","count":1},{"id":"3091","count":1},{"id":"3026","count":1},
+    {"id":"6609","count":1}],"type":"Vanguard's Downfall"}
+]
+}

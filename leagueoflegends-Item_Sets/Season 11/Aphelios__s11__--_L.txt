@@ -1,0 +1,19 @@
+{
+"title":"Garden In The Bones",
+"associatedMaps":[],
+"associatedChampions":[523],
+
+"blocks":
+[
+	 {"items":[{"id":"1036","count":1},{"id":"2003","count":3},{"id":"3340","count":1},
+	 {"id":"3364","count":1},{"id":"2055","count":1}],"type":"--victims and pawns"},
+	 
+	 {"items":[{"id":"6693","count":1},{"id":"6692","count":1},{"id":"6691","count":1}],
+	 "type":"--where wolves come to die"},
+	 
+	 {"items":[{"id":"6676","count":1},{"id":"6695","count":1},{"id":"3142","count":1},
+	 {"id":"3036","count":1},{"id":"6694","count":1},{"id":"3085","count":1},
+	 {"id":"3047","count":1},{"id":"3111","count":1},{"id":"3158","count":1},
+	 {"id":"3006","count":1}],"type":"--dormant heart"}
+]
+}

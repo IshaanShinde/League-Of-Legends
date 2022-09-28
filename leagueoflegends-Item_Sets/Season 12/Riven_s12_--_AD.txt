@@ -1,0 +1,20 @@
+{
+"title":"Diluc",
+"associatedMaps":[],
+"associatedChampions":[92],
+
+"blocks":
+[
+    {"items":[{"id":"6630","count":1},{"id":"6631","count":1},{"id":"3078","count":1}],
+    "type":"(goredrinker)? (>w<) : (x_x)"},
+    
+    {"items":[{"id":"3053","count":1},{"id":"6333","count":1},{"id":"3071","count":1},
+    {"id":"3142","count":1},{"id":"3156","count":1},{"id":"6609","count":1},
+    {"id":"6035","count":1},{"id":"3748","count":1},{"id":"6695","count":1},
+    {"id":"3508","count":1}],"type":"aatrox->hand + cdr = pref"},
+    
+    {"items":[{"id":"6630","count":1},{"id":"3142","count":1},{"id":"3053","count":1},
+    {"id":"3074","count":1},{"id":"6630","count":1},{"id":"6694","count":1}],
+    "type":"saw(adrian , viper) use: ItemSetOf(gore+2, rave+2)"}
+]
+}

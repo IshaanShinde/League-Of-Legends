@@ -1,0 +1,21 @@
+{
+"title":"Lesbian Cupcake",
+"associatedMaps":[],
+"associatedChampions":[51],
+
+"blocks":
+[
+    {"items":[{"id":"3748","count":1},{"id":"3085","count":1},{"id":"6670","count":1},
+    {"id":"3031","count":1},{"id":"3072","count":1}],
+    "type":"Hail Hydra --xFSN Saber: noonquiver.replace(Mythic):"},
+    
+    {"items":[{"id":"6671","count":1},{"id":"3095","count":1},{"id":"3031","count":1},
+    {"id":"3094","count":1}],"type":"Footwork + Inspiration:"},
+    
+    {"items":[{"id":"6673","count":1},{"id":"3085","count":1},{"id":"3031","count":1},
+    {"id":"3072","count":1}],"type":"Survival Horror:"},
+    
+    {"items":[{"id":"6672","count":1},{"id":"3036","count":1},{"id":"3031","count":1},
+    {"id":"3046","count":1}],"type":"Lethal -> Tanks;"}
+]
+}

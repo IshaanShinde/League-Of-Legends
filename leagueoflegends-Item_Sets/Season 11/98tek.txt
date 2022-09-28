@@ -1,0 +1,26 @@
+{
+"title":"Verminous",
+"associatedMaps":[],
+"associatedChampions":[29],
+
+"blocks":
+[
+     {"items":[{"id":"3091","count":1},{"id":"3085","count":1},
+	 {"id":"3748","count":1}],"type":"--godlessly"},
+	 
+	 {"items":[{"id":"6673","count":1},{"id":"6671","count":1},
+	 {"id":"6672","count":1},{"id":"6662","count":1},
+	 {"id":"3068","count":1}],"type":"--dawn of rats"},
+	 
+	 {"items":[{"id":"3071","count":1},{"id":"3075","count":1},
+	 {"id":"3053","count":1},{"id":"3143","count":1},
+	 {"id":"3124","count":1},{"id":"6333","count":1},
+	 {"id":"3083","count":1},{"id":"3065","count":1},
+	 {"id":"6035","count":1},{"id":"3153","count":1}],
+	 "type":"--the wereworm's feast"},
+	 
+	 {"items":[{"id":"3091","count":1},{"id":"3085","count":1},
+	 {"id":"3748","count":1},{"id":"3153","count":1},
+	 {"id":"3006","count":1}],"type":"xfsn saber"}
+]
+}

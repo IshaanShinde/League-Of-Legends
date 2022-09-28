@@ -1,0 +1,17 @@
+{
+"title":"chitsundri",
+"associatedMaps":[],
+"associatedChampions":[29],
+
+"blocks":
+[
+    {"items":[{"id":"3115","count":1},{"id":"3089","count":1},{"id":"4644","count":1},
+    {"id":"3157","count":1},{"id":"3135","count":1}],"type":"sewer magician"},
+    
+    {"items":[{"id":"3091","count":1},{"id":"3085","count":1},{"id":"3748","count":1}],
+    "type":"98tek"},
+    
+    {"items":[{"id":"3153","count":1},{"id":"6671","count":1},{"id":"6676","count":1},
+    {"id":"3031","count":1}],"type":"searing plague"}
+]
+}
